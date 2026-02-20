@@ -1,0 +1,16 @@
+{
+  "name": "weather-info",
+  "display_name": "Weather Information",
+  "version": "1.0.0",
+  "description": "Get current weather, forecasts, and severe weather alerts for any location worldwide.",
+  "author": "kombalarasoftware-cmd",
+  "category": "utility",
+  "tools": [
+    "get_current_weather",
+    "get_weather_forecast",
+    "get_weather_alerts"
+  ],
+  "prompt_extension": "You can check weather conditions for any city or location. Use get_current_weather for current conditions, get_weather_forecast for multi-day forecasts, and get_weather_alerts for severe weather warnings.",
+  "dependencies": [],
+  "min_version": "0.1.0"
+}
